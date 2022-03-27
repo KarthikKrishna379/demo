@@ -3,3 +3,6 @@ almonds
 cranberries
 bannana
 protien bar
+
+pizza
+Milkshake
